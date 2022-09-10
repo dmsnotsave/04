@@ -3,7 +3,7 @@ body {
 }
 
 #image {
-  height: 500px;
+  height: 650px;
   background-image: url("image.png");
   background-repeat:no-repeat;
   background-position-x:center;
